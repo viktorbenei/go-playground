@@ -24,6 +24,7 @@ func Printfln(format string, a ...interface{}) (n int, err error) {
 }
 
 func main() {
+	defer Printfln("-> This should run last, but should run regardless. However it won't run if the program exits - as log.Fatal does.")
 	fmt.Println("Start")
 	Printfln("My format thing %d", 12)
 	log.Fatal("This will exit right away")
