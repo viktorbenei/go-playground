@@ -1,3 +1,7 @@
+/*
+Simple array initialization and base tests
+*/
+
 package main
 
 import "fmt"
