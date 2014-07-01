@@ -1,5 +1,5 @@
 /*
-Simple array initialization and base tests
+Simple array and slice initialization and base tests
 */
 
 package main
