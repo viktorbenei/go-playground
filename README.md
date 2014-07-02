@@ -19,3 +19,8 @@ Tools:
 
 
 Official versioning doc: [http://golang.org/doc/faq#get_version](http://golang.org/doc/faq#get_version)
+
+# Useful links
+
+* Effective Go - great overview with tips and tricks: [golang.org/doc/effective_go.html](golang.org/doc/effective_go.html)
+
